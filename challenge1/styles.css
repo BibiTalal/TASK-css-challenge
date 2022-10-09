@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(31, 2, 54);
+}
+
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3vh;
+    height: 15%;
+    width: 20%;
+   
+
+}
+
+
+.title{
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.paragraph{ 
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    text-align: center;
+}
